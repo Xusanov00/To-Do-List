@@ -1,2 +1,2 @@
 # Xcode
-test uploading #1
+to do list is ready almost, except app icone
